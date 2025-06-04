@@ -31,3 +31,7 @@ Uma API REST simples para gerenciamento de tarefas (to-do list), desenvolvida em
 2. Instale as dependências:
    ```bash
    npm install
+3. Inicie o servidor:
+    ```bash
+    node .\api-taskmaster.js
+4. Acesse `http://localhost:3000`
